@@ -1,0 +1,11 @@
+.done{
+    text-decoration: line-through;
+    color: green;
+}
+.notdone{
+    color: red;
+}
+.notedit{
+    display: none;
+}
+.edit{display: flex;}
